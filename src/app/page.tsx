@@ -73,7 +73,7 @@ export default function Home() {
       </div>
 
       <footer className="text-muted-foreground text-xs fixed bottom-6">
-        Desenvolvido por Wllysses Tavares
+        Desenvolvido por Wanderson Timóteo
       </footer>
     </main>
   );
